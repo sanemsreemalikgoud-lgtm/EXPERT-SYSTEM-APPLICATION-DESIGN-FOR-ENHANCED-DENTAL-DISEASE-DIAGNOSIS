@@ -1,2 +1,2 @@
 # EXPERT-SYSTEM-APPLICATION-DESIGN-FOR-ENHANCED-DENTAL-DISEASE-DIAGNOSIS
-Expert System Application Design for Enhanced Dental Disease Diagnosis is a machine learning-based healthcare solution that predicts dental diseases using KNN and SVM algorithms. The system improves diagnostic accuracy, supports clinical decision-making, and enhances patient care through intelligent data analysis and disease predictio
+Expert System Application Design for Enhanced Dental Disease Diagnosis is a machine learning-based healthcare solution that predicts dental diseases using KNN and SVM algorithms. The system improves diagnostic accuracy, supports clinical decision-making, and enhances patient care through intelligent data analysis and disease prediction
